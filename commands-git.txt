@@ -1,5 +1,7 @@
 -git clone 'URL'
 -git add
 -git commit -m"text"
-git push
-git pull
+-git push
+-git pull
+-git branch 'nom_de_la_branche-créer'
+-git branch
